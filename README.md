@@ -27,8 +27,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<username>/emoji-predictor.git
-   cd emoji-predictor
+   https://github.com/itsEricWu/emoji-predictor-web.git
+   cd emoji-predictor-web
    ```
 
 2. Install Flask and the necessary Python packages using pip:
