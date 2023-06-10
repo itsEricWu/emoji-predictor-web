@@ -20,7 +20,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 - Python 3 (Download and Install from [here](https://www.python.org/downloads/))
 - Flask (Python Web Framework)
 - Pip (Python Package Installer)
-- Download the BERTweet model from [here](https://drive.google.com/drive/folders/1jy_YjV1HytxvOZKIdZ8D0i8nd2q1IU_9?usp=sharing) and place it in the backend directory.
+- Download my fine tuned BERTweet model from [here](https://drive.google.com/drive/folders/1jy_YjV1HytxvOZKIdZ8D0i8nd2q1IU_9?usp=sharing) and place it in the backend directory.
 
 ### Installation
 
